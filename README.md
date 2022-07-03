@@ -1,0 +1,1 @@
+The codes deals with various aspects of building various machine learning model following the traditional method of data preprocessing, data exploration and visualization, model building, tuning the hyperparameters and finally computing the performances of various models and comparing among themselves as to which one is able to perform the best given the same dataset.
